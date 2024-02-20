@@ -25,11 +25,3 @@ The optimization of this project was executed by applying dual optimizers with d
 1. **Adversarial Training**: Our project framework magnifies the strategy of misspelling simulation to prompt deep resilience of the NLP text in phrasal chunking. Mimicking a world with habitual or abrupt typing snags, this data modulation engrains the solutioning dexterity for a differentiated and differential world of typos.
 
 2. **Tweaking at the Solver Level**: Realizing a slope in the learning curve by partitioning the learning rates between the pre-trained encoder layers and the succeeding classification head, we funneled in a hybrid technique to 'fine-coarse' learning schema.
-
-### Applications
-
-The realized differential weight in the disturbed context (courtesy of purposeful feature engineering) and along the technique curve, avails the NLP preparation in:
-
-- **Autocorrection and Suggestion Pods**: Crafting an on-the-go, finely-accurate sub-layer, operational over various devices.
-- **Enhanced Voice-to-Text Production**: Effectuating a cost-saving and accuracy optimization on the primary pass.
-- **Recommendation Stack's Input Signal Tuning**: Edging the IR/NLP symbiosis over signs of slippage from imperfect signals (noisy data).
